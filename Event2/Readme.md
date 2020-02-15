@@ -1,4 +1,4 @@
-# ngIndore
+# #ngIndore
 #ngIndore - Zero to Hero
 
 ### Session 2<br/>
@@ -11,7 +11,7 @@ Slide: https://docs.google.com/presentation/d/1_cJbtDSRTV7DR32pccuBNU4AJgXuAFXji
 Free Udemy Course: https://www.udemy.com/course/angular-all-you-need-to-know/?couponCode=NG-INDORE-FEB-2020<br/>
 
 ### Intercorellation of Computer vision with Angular and Other frameworks - Deepanshu Bhinda<br/>
-Slide:<br/>
+Slide:https://github.com/srashtisj/ngIndore/blob/master/Event2/Intercorellation%20of%20Computer%20vision%20with%20Angular%20and%20Other%20frameworks%20-%20Deepanshu%20Bhinda.pptx<br/>
 
 ### What's new in Angular 9? - Srashti Jain<br/>
 Official Blog: https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3<br/>
