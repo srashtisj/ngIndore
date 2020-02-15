@@ -1,6 +1,10 @@
-# ngIndore
+# #ngIndore
 #ngIndore - Zero to Hero
 
-### Session1<br/>
+### Event 1<br/>
 Oct 19, 2019 <br/>
-***Slide Deck*** http://bit.do/ngindore-ppt1
+***Resource*** https://github.com/srashtisj/ngIndore/blob/master/Event1/Readme.md<br/>
+
+### Event 2<br/>
+Feb 15, 2020 <br/>
+***Resource*** https://github.com/srashtisj/ngIndore/blob/master/Event2/Readme.md
